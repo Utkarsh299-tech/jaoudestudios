@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Agency Preview](https://startbootstrap.com/assets/img/screenshots/themes/agency.png)](https://blackrockdigital.github.io/startbootstrap-agency/)
+[![Agency Preview](https://user-images.githubusercontent.com/60184229/103766319-a6b7e580-5044-11eb-8c59-c321f255398c.png)](http://jaoudestudios.com/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+**[View Live Preview](http://jaoudestudios.com/)**
 
 ## Status
 
